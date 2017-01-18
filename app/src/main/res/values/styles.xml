@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BaseStyle">
+        <item name="android:textSize">@dimen/btn_text</item>
+        <item name="android:layout_margin">@dimen/btn_margin</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="DigitalBtnStyle" parent="BaseStyle">
+        <item name="android:background">@drawable/digital_btn_selector</item>
+    </style>
+
+    <style name="SymbolDarkStyle"  parent="BaseStyle">
+        <item name="android:background">@drawable/symbol_dark_btn_selector</item>
+    </style>
+
+    <style name="SymbolLightStyle"  parent="BaseStyle">
+        <item name="android:background">@drawable/symbol_light_btn_selector</item>
+    </style>
+
+    <style name="TextAreaStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/gray</item>
+        <item name="android:gravity">center_vertical|right</item>
+        <item name="android:textSize">@dimen/text_area_text</item>
+    </style>
+
+    <style name="AboutContentStyle">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">@dimen/text_area_text</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--黑色-->
+    <color name="black">#FF000000</color>
+    <!--白色-->
+    <color name="white">#FFFFFFFF</color>
+    <!--红色-->
+    <color name="red">#FFFF0000</color>
+    <!--绿色-->
+    <color name="green">#FF00FF00</color>
+    <!--蓝色-->
+    <color name="blue">#FF0000FF</color>
+    <!--黄色-->
+    <color name="yellow">#FFFFFF00</color>
+    <!--灰色-->
+    <color name="gray">#FFC0C0C0</color>
+    <!--金色-->
+    <color name="golden">#FFCD7F32</color>
+    <!--橙色-->
+    <color name="orange">#FFFF7F00</color>
+    <!--淡紫色-->
+    <color name="purpole">#FFDB70DB</color>
+    <!--银色-->
+    <color name="silvery">#FFE6E8FA</color>
+    <!--棕色-->
+    <color name="brown">#FFA67D3D</color>
+    <!--粉色-->
+    <color name="pink">#FFD7EA</color>
+
+    <color name="colorbackgrand">#FF4B5459</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="colorDigitalBtnNormal">#D0DCE3</color>
+    <color name="colorDigitalBtnPressed">#BED1DB</color>
+
+    <color name="colorSymbolLightBtnNormal">#66A1B4</color>
+    <color name="colorSymbolLightBtnPressed">#78CCE6</color>
+
+    <color name="colorSymbolDarkBtnNormal">#BED1DB</color>
+    <color name="colorSymbolDarkBtnPressed">#66A1B4</color>
+
+</resources>
